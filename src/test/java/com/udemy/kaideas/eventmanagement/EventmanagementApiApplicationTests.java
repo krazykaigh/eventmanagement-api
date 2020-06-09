@@ -1,4 +1,4 @@
-package com.udemy.kaideas.eventmanagementapi;
+package com.udemy.kaideas.eventmanagement;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
